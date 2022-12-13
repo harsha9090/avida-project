@@ -1,6 +1,6 @@
 # Getting Started with Avida-Project React App
 
-1. First you have to install latest node version to your computer. 
+1. Makesure you have installed latest node version v18 to your computer. 
 2. Go to the project directory on terminal and run "npm install --force" to install the necessary node packages
 
 ## Available Scripts
